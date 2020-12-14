@@ -25,3 +25,13 @@ I used beautiful soup to scrape over 5,000 images from google images. This consi
 **One Piece, Naruto, Bleach, Dragon Ball Z, Death Note, Black Clover, Fairy Tail, Attack On Titan, Cowboy Bebop, Full Metal Alchemist** 
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/anime_img_plot.png)
+
+# Models
+
+** Transfer Learning **
+
+Transfer Learning is basically utilizing an already established knowledge and using it to solve another problem.
+
+** VGG 19 **
+
+![image] (https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/VGG19.png)
