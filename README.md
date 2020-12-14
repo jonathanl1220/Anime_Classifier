@@ -28,10 +28,18 @@ I used beautiful soup to scrape over 5,000 images from google images. This consi
 
 # Models
 
-**Transfer Learning **
+## Transfer Learning
 
 Transfer Learning is basically utilizing an already established knowledge and using it to solve another problem.
 
-**VGG 19 **
+### VGG 19
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/VGG19.png)
+
+To personalize this model to my data I removed the final dense layer and added a new dense layer with my class sizes.
+I also used Soft Max as my activation, Categorical Cross Entropy as my Loss, and SGD as my optimizer.
+
+
+**Character Type Model**
+
+This model has 3 classes: **Male, Female, and Non-Human**
