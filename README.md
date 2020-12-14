@@ -49,8 +49,14 @@ This model has 3 classes: **Male, Female, and Non-Human**
 
 ### Character Model
 
-This model has 10 classes(one character from each Anime): **Beast, Yami, Ichigo, FAye, Luffy, Cell, Ryuk, Nezuko, Al, Erza**
+This model has 10 classes(one character from each Anime): **Beast, Yami, Ichigo, Faye, Luffy, Cell, Ryuk, Nezuko, Al, Erza**
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/char_prediction_plot.png)
+
+### Anime Classifier Model
+
+This model also has 10 classes representing each Anime: **One Piece, Naruto, Bleach, Dragon Ball Z, Death Note, Black Clover, Fairy Tail, Attack On Titan, Cowboy Bebop, Full Metal Alchemist** 
+
+![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/anime_prediction_plot-1.png)
 
 
