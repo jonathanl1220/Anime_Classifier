@@ -75,6 +75,8 @@ This model also has 10 classes representing each Anime: **One Piece, Naruto, Ble
 
 # Conclusion
 
+**I was actually happy and expected the results of the models. The models with more variance performed worst then the Type model. There is room for growth but this is a good start.**
+
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/model_results.png)
 
 # Future Steps
