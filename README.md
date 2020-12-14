@@ -22,4 +22,4 @@ Why is this necessary? I have 2
 
 
 
-![image](https://github.com/jonathanl1220/AirbnbCovidAnalysis/blob/master/img/PieChartJune2019.png)
+![image](https://www.google.com/search?q=astroboy&rlz=1C5CHFA_enUS890US890&sxsrf=ALeKk0306Vt1zFU18RKinlqFgBM3L8uA1g:1607956485465&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjRgoXZ2M3tAhUo01kKHX5BBlUQ_AUoAXoECBIQAw&biw=1280&bih=743#imgrc=cRs9bCIwQUAuBM)
