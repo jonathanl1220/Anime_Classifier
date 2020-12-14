@@ -40,6 +40,17 @@ To personalize this model to my data I removed the final dense layer and added a
 I also used Soft Max as my activation, Categorical Cross Entropy as my Loss, and SGD as my optimizer.
 
 
-**Character Type Model**
+### Character Type Model
 
 This model has 3 classes: **Male, Female, and Non-Human**
+
+![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/type_prediction_plot.png)
+
+
+### Character Model
+
+This model has 10 classes(one character from each Anime): **Beast, Yami, Ichigo, FAye, Luffy, Cell, Ryuk, Nezuko, Al, Erza**
+
+![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/char_prediction_plot.png)
+
+
