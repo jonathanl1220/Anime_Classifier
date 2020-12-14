@@ -13,7 +13,7 @@ Anime is a big staple even outside of Japan with 2018’s global sales revenues 
 
 Taking my love for Anime combined with its importance to North America I decided to use computer vision to classify Anime characters.
 
-**Why is this necessary?** I have 2
+**Why is this necessary?** 
 
 1.	This could help future studies of what shows are similar in character design and if there is a correlation with character style and popularity.
 2.	This can enhance the recommendation process by identifying character and recommending based on the image.
