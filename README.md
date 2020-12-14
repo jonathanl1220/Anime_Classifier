@@ -20,11 +20,8 @@ Taking my love for Anime combined with its importance to North America I decided
 
 # Data
 
-I used
+I used beautiful soup to scrape over 5,000 images from google images. This consist of characters from the following Animes.
 
-
-
-
-
+**One Piece, Naruto, Bleach, Dragon Ball Z, Death Note, Black Clover, Fairy Tail, Attack On Titan, Cowboy Bebop, Full Metal Alchemist** 
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/anime_img_plot.png)
