@@ -1,6 +1,7 @@
 # Using Computer Vision and Transfer Learning to Classify Anime Characters
 
 Below please find the link to my presentation from prezi.
+
 **Prezi Presentation:** https://prezi.com/view/FoY8PCWQtsGkhpQoOLFA
 
 I have been watching Anime for over 20 years at this point of my life. I always found it interesting that I enjoyed watching these animated shows that required subtitles in my situation as an American born English speaker. Then I realized it isn’t just me.
