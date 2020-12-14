@@ -79,10 +79,10 @@ This model also has 10 classes representing each Anime: **One Piece, Naruto, Ble
 
 # Future Steps
 
-1.Hierarchical Image Classification
+**1.Hierarchical Image Classification**
 
-2.Including additional Animes  and expand characters in classes.
+**2.Including additional Animes  and expand characters in classes.**
 
-3. Using different models to increase accuracy.
+**3.Using different models to increase accuracy.**
 
 
