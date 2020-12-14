@@ -28,10 +28,10 @@ I used beautiful soup to scrape over 5,000 images from google images. This consi
 
 # Models
 
-** Transfer Learning **
+**Transfer Learning **
 
 Transfer Learning is basically utilizing an already established knowledge and using it to solve another problem.
 
-** VGG 19 **
-img/VGG19.png
-![image] (img/VGG19.png)
+**VGG 19 **
+
+![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/VGG19.png)
