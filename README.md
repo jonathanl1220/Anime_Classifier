@@ -61,21 +61,28 @@ This model also has 10 classes representing each Anime: **One Piece, Naruto, Ble
 
 # Results
 
-**The Type Model worked really well mainly confusing characters making exaggerated expressions**
+**The Type Model worked really well mainly confusing characters making exaggerated expressions.**
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/type_confu_mat.png)
 
-**The Character Model struggled with classifying a character that was an armor knight with characters that wore armor** 
+**The Character Model struggled with classifying a character that was an armor knight with characters that wore armor.** 
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/char_confusion_mat_plot.png)
 
-**The Anime Model struggled with predicting on newer Animes. The older Anime in my data was Dragon Ball Z with had the best score, whereas the newest (Demon Slayer had the worst score** 
+**The Anime Model struggled with predicting on newer Animes. The older Anime in my data was Dragon Ball Z with had the best score, whereas the newest (Demon Slayer had the worst score.** 
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/anime_confu_mat_plot.png)
 
-## Results Overview
+# Conclusion
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/model_results.png)
 
+# Future Steps
+
+1.Hierarchical Image Classification
+
+2.Including additional Animes  and expand characters in classes.
+
+3. Using different models to increase accuracy.
 
 
