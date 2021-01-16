@@ -4,6 +4,15 @@ Below please find the link to my presentation from prezi.
 
 **Prezi Presentation:** https://prezi.com/view/FoY8PCWQtsGkhpQoOLFA
 
+## Table of Contents
+1. [Background Information](#background-information)
+2. [Data](#Data)
+3. [Models](#Models)
+3. [Conclusion](#conclusion)
+4. [Future Steps](#future-steps)
+
+## Background Information]
+
 I have been watching Anime for over 20 years at this point of my life. I always found it interesting that I enjoyed watching these animated shows that required subtitles in my situation as an American born English speaker. Then I realized it isn’t just me.
 
 Astro Boy was the first Anime that went mainstream in North America, this was in the 1960s.
@@ -18,7 +27,7 @@ Taking my love for Anime combined with its importance to North America I decided
 1.	This could help future studies of what shows are similar in character design and if there is a correlation with character style and popularity.
 2.	This can enhance the recommendation process by identifying character and recommending based on the image.
 
-# Data
+## Data
 
 I used beautiful soup to scrape over 5,000 images from google images. This consist of characters from the following Animes.
 
@@ -26,13 +35,13 @@ I used beautiful soup to scrape over 5,000 images from google images. This consi
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/anime_img_plot.png)
 
-# Models
+## Models
 
-## Transfer Learning
+### Transfer Learning
 
 Transfer Learning is basically utilizing an already established knowledge and using it to solve another problem.
 
-### VGG 19
+#### VGG 19
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/VGG19.png)
 
@@ -40,7 +49,7 @@ To personalize this model to my data I removed the final dense layer and added a
 I also used Soft Max as my activation, Categorical Cross Entropy as my Loss, and SGD as my optimizer.
 
 
-### Character Type Model
+#### Character Type Model
 
 This model has 3 classes: **Male, Female, and Non-Human**
 
@@ -53,7 +62,7 @@ This model has 10 classes(one character from each Anime): **Beast, Yami, Ichigo,
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/char_prediction_plot.png)
 
-### Anime Classifier Model
+#### Anime Classifier Model
 
 This model also has 10 classes representing each Anime: **One Piece, Naruto, Bleach, Dragon Ball Z, Death Note, Black Clover, Fairy Tail, Attack On Titan, Cowboy Bebop, Full Metal Alchemist** 
 
@@ -73,13 +82,13 @@ This model also has 10 classes representing each Anime: **One Piece, Naruto, Ble
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/anime_confu_mat_plot.png)
 
-# Conclusion
+## Conclusion
 
 **I was actually happy and expected the results of the models. The models with more variance performed worst then the Type model. There is room for growth but this is a good start.**
 
 ![image](https://github.com/jonathanl1220/Anime_Classifier/blob/main/img/model_results.png)
 
-# Future Steps
+## Future Steps
 
 **1.Hierarchical Image Classification**
 
